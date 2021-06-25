@@ -1,0 +1,15 @@
+conda-forge::collections
+conda-forge::torchio
+conda-forge::medpy.io
+conda-forge::numpy
+conda-forge::PIL
+conda-forge::random
+conda-forge::csv
+conda-forge::sys
+conda-forge::time
+conda-forge::argparse
+conda-forge::torchvision
+conda-forge::math
+conda-forge::copy
+conda-forge::pathlib
+conda-forge::torch
